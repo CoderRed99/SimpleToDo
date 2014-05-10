@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    
+    <string name="app_name">Simple ToDo</string>
+    <string name="add_hint">Add a new item</string>
+    <string name="add_button_label">Add</string>
+    <string name="toast1">Hi! You must be sick of todo apps by now ;P</string>
+    <string name="toast2">Thanks for creating this wonderful opportunity</string>
+    <string name="toast3">btw, CodePath videos ROCK! just sayin\'\.\.\.</string>
+    <string name="toast4">Hopefully I\'ll see you soon!??</string>
+    <string name="toast5">Some equally amusing message</string>
+    <string name="added"> has been added</string>
+    <string name="removed"> has been removed</string>
+    <string name="edited"> has been edited</string>
+    
+                    
+    <string name="title_activity_edit_item">Edit Item</string>
+    <string name="tv_label">Edit Item Below:</string>
+    <string name="btn_save">Save Changes</string>
+
+</resources>
